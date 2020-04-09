@@ -1,0 +1,5 @@
+Czas wczytywania danych do struktury, dodajac od konca: 1.34945e+007
+Czas dodania do kopca: 565
+Czas usuwania korzenia: 8
+Czas znalezienia wartosci: 705
+Czas drukowania: 3.0942e+007

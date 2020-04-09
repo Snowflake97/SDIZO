@@ -1,0 +1,9 @@
+Czas wczytywania danych do struktury, dodajac od konca: 3.20324e+008
+Czas dodania na poczatek: 2605
+Czas dodania na koniec: 3105
+Czas dodania na na okreslona pozycje: 2233
+Czas usuniecia pierwszej pozycji: 2937
+Czas usuniecia ostatniej pozycji: 2436
+Czas usuniecia wybranej pozycji: 2947
+Czas znalezienia wartosci: 319
+Czas drukowania: 1.0977e+008
